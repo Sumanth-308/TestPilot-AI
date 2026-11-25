@@ -1,0 +1,15 @@
+﻿.venv/
+**/__pycache__/
+.pytest_cache/
+.git/
+.vs/
+.vscode/
+.idea/
+frontend/node_modules/
+frontend/dist/
+backend/data/
+*.db
+*.sqlite3
+testpilot-report.csv
+.env
+.env.*
